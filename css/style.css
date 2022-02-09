@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+.titlecard{
+    width: 25vw;
+    height: 15vw;
+    float: left;
+}
+.one{
+    background-color: #bbb;
+}
+.two{
+    background-color: #ccc;
+}
+.three{
+    background-color: #ddd;
+}
+.four{
+    background-color: #eee;
+}
